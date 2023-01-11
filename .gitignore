@@ -28,3 +28,7 @@ replay_pid*
 
 nbactions.xml
 
+.gitignore
+
+.idea
+.idea/*
